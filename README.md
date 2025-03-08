@@ -20,4 +20,4 @@ Note:  Make sure Tkinter is installed (pip install tk if needed).
 - Python, VS code, and Tkinter
   
 ## Author
-https://github.com/KarolinaInTech
+Karolina Vakula - https://github.com/KarolinaInTech
